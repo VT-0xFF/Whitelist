@@ -1,0 +1,139 @@
+{
+  "FeaturedPlayer": {
+        "Id": 2852819,
+        "TitleOverride": null,
+        "UrlOverride": null
+  },
+  "FeaturedRoomGroup": {
+        "Name": "Featured Rooms",
+    "FeaturedRooms": [
+            {
+                "RoomId": 3041349765931824600,
+                "RoomName": "BonkysInferno",
+                "ImageName": "73cbhgggog3czsacqckc8jpm7.png"
+            },
+            {
+                "RoomId": 3902037,
+                "RoomName": "Chronom",
+                "ImageName": "7r51uq3yhu9ckqwjzinkl0uh9.jpg"
+            },
+            {
+                "RoomId": 1553377852912788000,
+                "RoomName": "Aurora.Studios",
+                "ImageName": "13n68nx32jugb58a0wp3f9jrf.jpg"
+            },
+            {
+                "RoomId": 7772830876888700000,
+                "RoomName": "BallShooterz",
+                "ImageName": "afowm9th79eclq4tq9vb7u8h6.jpg"
+            },
+            {
+                "RoomId": 8873908607965886000,
+                "RoomName": "BayCliffHangout",
+                "ImageName": "0idkcswn7mnzsvpvhkkajmt8j.jpg"
+            },
+            {
+                "RoomId": 2984601157840065000,
+                "RoomName": "FirstCut",
+                "ImageName": "9akpuneac9lsxizlgyyzy2wnc.jpg"
+            },
+            {
+                "RoomId": 4357004996859396000,
+                "RoomName": "Licentia",
+                "ImageName": "0a25c5e0a8xn0mlv0hdrwe4ri.jpg"
+            },
+            {
+                "RoomId": 4209616319169521700,
+                "RoomName": "CloseKombat",
+                "ImageName": "28750tko3w45x8l0s3x9qxyzh.jpg"
+            },
+            {
+                "RoomId": 28318211,
+                "RoomName": "Ustala",
+                "ImageName": "87y8d4hf5yo4xq3udx6rylhn1.jpg"
+            },
+            {
+                "RoomId": 7357784141144447000,
+                "RoomName": "Auralise",
+                "ImageName": "5isncr99vb03nslvsqazfilxm.jpg"
+            }
+    ]
+  },
+  "CurrentAnnouncement": {
+        "Message": "Learn about how we do Custom Shirt moderation and our new appeal system!",
+        "MoreInfoUrl": "https://rec.net/creator/p/teerific-update?utm_medium=website&utm_source=recnet-creatorhomepage&utm_campaign=teerific-update"
+  },
+  "InstagramImages": [
+        {
+            "ImageName": "n/a0b7a15d94b544239bb32964029993d9",
+            "ImageUrl": null
+        },
+        {
+            "ImageName": "n/ccde3e4708864a1eb55014db1431d239",
+            "ImageUrl": null
+        },
+        {
+            "ImageName": "n/acd2307f6bb045e78f36eda21440fe07",
+            "ImageUrl": null
+        },
+        {
+            "ImageName": "n/f19f342c11644c2fa93a310cfc184c35",
+            "ImageUrl": null
+        },
+        {
+            "ImageName": "n/534b94c874df49c29b36e110b50abb09",
+            "ImageUrl": null
+        },
+        {
+            "ImageName": "n/783c4e4a26a74bd884aedfe4f5e5aef2",
+            "ImageUrl": null
+        },
+        {
+            "ImageName": "n/ab01221f32914823a66090b24d68902f",
+            "ImageUrl": null
+        },
+        {
+            "ImageName": "n/2ced2554c9c7402f8afbd88fc569486f",
+            "ImageUrl": null
+        },
+        {
+            "ImageName": "n/1bcf0f2a5b01438f92292aebe3114c2a",
+            "ImageUrl": null
+        },
+        {
+            "ImageName": "n/ce8932fa0ab245efaab6112c11eac67f",
+            "ImageUrl": null
+        },
+        {
+            "ImageName": "n/206a18def3b74e5997b653f40eb4fdef",
+            "ImageUrl": null
+        },
+        {
+            "ImageName": "n/cbb487dd6bf7454bace2f917917a0b57",
+            "ImageUrl": null
+        }
+  ],
+  "Videos": [
+        {
+            "BlobName": "b68559abcec64f3caaf88e08cbcf7fe4",
+            "Title": "Rec Room's NEW Dorm Room Update Is HERE...",
+            "Description": null,
+            "ThumbnailBlobName": "41087ee4bb1249aea37ddc70005bb4f7",
+            "SourceUrl": "https://youtube.com/shorts/ISt0k7iFIII?si=iAQzTfWghFdt5g38"
+        },
+        {
+            "BlobName": "a3816989ae9a44aab81a477e52a0ee23",
+            "Title": "We spawned in over 500 pizzas in the Rec Center...",
+            "Description": null,
+            "ThumbnailBlobName": "2844ef303d264a55835ca630bcbce4f0",
+            "SourceUrl": "https://youtube.com/shorts/1pChZUvdTB4?si=D_c-YKfwu_DujeA_"
+        },
+        {
+            "BlobName": "8b72ae3d052847039add460f68573146",
+            "Title": "Bucket",
+            "Description": null,
+            "ThumbnailBlobName": "1e2951897fdd4d33abeaa159aa90f0b9",
+            "SourceUrl": "https://youtube.com/shorts/thXJYeXwEtA?si=hPXEE_-N2oOQ2ncl"
+        }
+  ]
+}
